@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnotherTimeloop
 - 👀 I’m interested in React, MongoDB, CSS (SASS), JavaScript
 - 🌱 I’m currently learning React and working on improving it
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: anothertimeloop@gmail.com
 
 <!---
